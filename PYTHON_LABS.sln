@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_01_01", "lab_01_01_01\lab_01_01_01.pyproj", "{0417C1EB-7D03-49DC-ADB4-71C0C1882EF7}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_01_01_Manastyrskij_12", "lab_01_01_01_Manastyrskij_12\lab_01_01_01_Manastyrskij_12.pyproj", "{0417C1EB-7D03-49DC-ADB4-71C0C1882EF7}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_02_01", "lab_01_02_01\lab_01_02_01.pyproj", "{5F477A41-C15A-4FD3-B03D-A0DA09CA4B93}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_02_01_Manastyrskij_12", "lab_01_02_01_Manastyrskij_12\lab_01_02_01_Manastyrskij_12.pyproj", "{5F477A41-C15A-4FD3-B03D-A0DA09CA4B93}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_02_02", "lab_01_02_02\lab_01_02_02.pyproj", "{7BDFC759-3EF1-4C1D-8FA1-7D6E66043220}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_02_02_Manastyrskij_12", "lab_01_02_02_Manastyrskij_12\lab_01_02_02_Manastyrskij_12.pyproj", "{7BDFC759-3EF1-4C1D-8FA1-7D6E66043220}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_02_03", "lab_01_02_03\lab_01_02_03.pyproj", "{E47B0884-50A8-4BCE-A585-4AF3FCA6BB0B}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_01_02_03_Manastyrskij_12", "lab_01_02_03_Manastyrskij_12\lab_01_02_03_Manastyrskij_12.pyproj", "{E47B0884-50A8-4BCE-A585-4AF3FCA6BB0B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_02_01_Manastyrskij_12", "lab_02_01_Manastyrskij_12\lab_02_01_Manastyrskij_12.pyproj", "{E91EE135-54DC-40C6-8E44-B64A8B45F4B8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_02_02_Manastyrskij_12", "lab_02_02_Manastyrskij_12\lab_02_02_Manastyrskij_12.pyproj", "{C194CE28-9BD0-4136-98E4-1227D02114E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{7BDFC759-3EF1-4C1D-8FA1-7D6E66043220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E47B0884-50A8-4BCE-A585-4AF3FCA6BB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E47B0884-50A8-4BCE-A585-4AF3FCA6BB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91EE135-54DC-40C6-8E44-B64A8B45F4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91EE135-54DC-40C6-8E44-B64A8B45F4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C194CE28-9BD0-4136-98E4-1227D02114E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C194CE28-9BD0-4136-98E4-1227D02114E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
