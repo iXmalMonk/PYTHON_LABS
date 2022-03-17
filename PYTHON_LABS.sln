@@ -29,6 +29,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_04_01_Manastyrskij_12",
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_04_02_Manastyrskij_12", "lab_04_02_Manastyrskij_12\lab_04_02_Manastyrskij_12.pyproj", "{F97B89C8-BE76-4F0E-A099-1D9F46380283}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab_04_04_Manastyrskij_12", "lab_04_04_Manastyrskij_12\lab_04_04_Manastyrskij_12.pyproj", "{71D43755-27E3-4D63-A1D0-C536D3E9D5A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,8 @@ Global
 		{638C97E0-AFC0-4B52-AEC3-3930849EB73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97B89C8-BE76-4F0E-A099-1D9F46380283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F97B89C8-BE76-4F0E-A099-1D9F46380283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D43755-27E3-4D63-A1D0-C536D3E9D5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D43755-27E3-4D63-A1D0-C536D3E9D5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
