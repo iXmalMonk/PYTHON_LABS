@@ -1,12 +1,15 @@
-n = int(input("Введите натуральное число = "))
-n2 = 0
-while n > 0:
-    n1 = n % 10
-    n = n // 10
-    if n1 % 3 == 0 and n1 > n2:
-        n2 = n1
-    if n2 != 0 and n == 0 or n2 == 9:
-        print(f"Максимальное число кратное '3' = {n2}")
+while(True):
+    num = int(input("Введите натуральное число = "))
+    if 0 < num < 1000000000:
+        break
+num_max = 0
+while num > 0:
+    dig = num % 10
+    num = num // 10
+    if dig % 3 == 0 and dig > num_max:
+        num_max = dig
+    if num_max != 0 and num == 0 or num_max == 9:
+        print(f"Максимальное число кратное '3' = {num_max}")
         break
 else:
     print("Нет цифр кратных '3'")
