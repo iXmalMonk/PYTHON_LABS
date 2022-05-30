@@ -1,6 +1,7 @@
 while(True):
-    num = int(input("Введите натуральное число = "))
-    if 0 < num < 1000000000:
+    num = input("Введите натуральное число = ")
+    if 0 < int(num) < 1000000000 and num.isdigit():
+        num = int(num)
         break
 num_max = 0
 while num > 0:
@@ -9,7 +10,7 @@ while num > 0:
     if dig % 3 == 0 and dig > num_max:
         num_max = dig
     if num_max != 0 and num == 0 or num_max == 9:
-        print(f"Максимальное число кратное '3' = {num_max}")
+        print(f"Максимальная цифра кратная '3' = {num_max}")
         break
 else:
     print("Нет цифр кратных '3'")
